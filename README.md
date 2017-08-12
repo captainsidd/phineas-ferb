@@ -1,1 +1,1 @@
-# Phineas and Ferb Transcript Analyzer
+# phineas and ferb script analysis

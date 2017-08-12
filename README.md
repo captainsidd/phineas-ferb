@@ -1,5 +1,7 @@
 # Phineas and Ferb Analysis
 
+Because why not?
+
 ### Goals
 
 * I want to find out which of the main characters have the most lines/talks the most.

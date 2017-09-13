@@ -17,8 +17,14 @@ We can also see that Ferb is very quiet, speaking the fewest lines and the fewes
 What is surprising is how much Monogram speaks relative to the number of lines he has. Must be from giving Perry the Platypus all those missions.
 
 
-![](images/figure_1.png)
+![](images/lines.png)
 
-![](images/figure_2.png)
+![](images/words.png)
 
-![](images/figure_3.png)
+![](images/avg_word_per_line.png)
+
+### Looking Out For Perry
+
+Work in progress.
+
+### Positivity of Characters
